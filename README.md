@@ -1,6 +1,6 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-This repository contains the MATLAB implemenation of the doubly nonnegative relaxation of the protine side-chain positioning problem. 
+This repository contains the MATLAB implemenation of the doubly nonnegative relaxation of the protein side-chain positioning problem. 
 User Guide.pdf outlines the usage of 1) the preparation of the data; 2) the data folder and 3) the src folder. 
 
 ## Cite
